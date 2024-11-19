@@ -11,26 +11,10 @@ Welcome to my GitHub profile! I'm an **Electrical Engineer**, **ROS Developer**,
 
 ---
 
-## 🌐 **About Me**
-- 🎓 Studying Electrical Engineering at **HTW Berlin**.  
-- 🏆 Recipient of the **Artmund Scholarship**.  
-- 💡 Creator of innovative projects like Mars Rover prototypes and LIDAR-based robots.  
-- 🧑‍🏫 Teaching Python and Robotics to inspire the next generation.  
-
----
-
-## 📌 **Explore My Work**
-Check out my pinned repositories below to dive into:  
-- 🚀 **Robotics Projects**  
-- ⚙️ **Arduino & Embedded Systems**  
-- 🖋️ **Scientific Writing in LaTeX**  
-
----
-
 ## 🔗 **Let's Connect**
-- 🌐 **Portfolio Website**: [siddhart-portfolio.com](#)  
-- 💼 **LinkedIn**: [linkedin.com/in/siddhartpatel](#)  
-- 📧 **Email**: siddhart.patel@example.com  
+- 🌐 **Portfolio Website**: [siddhart-portfolio.com](https://siddharthpatelde.github.io/Portfolio/index.html)  
+- 💼 **LinkedIn**: [linkedin.com/in/siddhartpatel](https://www.linkedin.com/in/siddharth-patel-81a23b2b7/)  
+- 📧 **Email**: siddharthpatel.de@gmail.com  
 
 ---
 
